@@ -5,3 +5,4 @@ remote_theme: andrebell/wago-howto-theme
 plugins:
   - jemoji
   - jekyll-redirect-from
+  - jekyll-relative-links
