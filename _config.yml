@@ -3,8 +3,6 @@ author: André Alexander Bell
 email: andre.bell@wago.com
 remote_theme: andrebell/jekyll-TeXt-theme
 lang: de
-sass:
-  sass_dir: _sass
 plugins:
   - jemoji
   - jekyll-redirect-from
