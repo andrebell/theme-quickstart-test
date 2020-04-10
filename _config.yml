@@ -1,7 +1,7 @@
 title: Ein Titel für die Webseite
 author: André Alexander Bell
 email: andre.bell@wago.com
-remote_theme: andrebell/wago-howto-theme
+remote_theme: andrebell/jekyll-TeXt-theme
 lang: de
 plugins:
   - jemoji
